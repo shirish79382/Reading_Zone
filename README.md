@@ -11,6 +11,14 @@ One of the major problems we face nowadays is encompassed by fake unverified new
 *This will only contain the information which is verified.
 
 
+![IMG_20220109_141511_1](https://user-images.githubusercontent.com/56336274/148678866-53f27337-a52b-457e-abda-fcc8e49e4cc3.png)
+![IMG_20220109_142106_1](https://user-images.githubusercontent.com/56336274/148678870-bdc23d70-9756-4d91-a676-00d103aa62ae.png)
+![111](https://user-images.githubusercontent.com/56336274/148678837-dca5d70a-9af3-41f7-9ca9-259888407e01.png)
+![Screenshot (433)](https://user-images.githubusercontent.com/56336274/148678784-8faf0077-433f-4f75-a52a-6f41d38df7f8.png)
+![Screenshot (434)](https://user-images.githubusercontent.com/56336274/148678796-8c1c0028-1b21-49aa-a635-d2908857c363.png)
+
+
+
 # Functionality & Concepts used :
 
 The App has a very simple and interactive interface that helps the users to select their community-based interested topics. Following are a few android concepts used to achieve the functionalities in the app :

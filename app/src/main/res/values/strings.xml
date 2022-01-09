@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Simple Notes</string>
+    <string name="desc">Start typing your notes.</string>
+    <string name="tag">Date</string>
+    <string name="save_note">Save Note</string>
+    <string name="title">Title</string>
+    <string name="color">Color</string>
+</resources>
